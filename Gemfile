@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'activesupport', '>= 2.3.17'
+gem 'nokogiri', '>= 1.5.5', '< 1.11'
+gem 'rake', '>= 0.9.2'
+gem 'rails', '= 3.1'
