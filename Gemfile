@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'TimezoneParser', '~> 0.3.0'
+gem 'json', '>= 1.8.3'
+gem 'signet', '~> 0.7'
+gem 'rails', '= 3.1'
