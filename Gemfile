@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'beefcake', '~> 1.0'
+gem 'digest-crc', '~> 0.4'
+gem 'google-api-client', '~> 0.8.3'
+gem 'grpc', '~> 0.13.1'
+gem 'mime-types', '~> 2.4'
+gem 'zonefile', '~> 1.04'
+gem 'rails', '= 3.1'
