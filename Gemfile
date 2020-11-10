@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'google-gax', '~> 0.10.1'
+gem 'googleapis-common-protos', '~> 1.3.1'
+gem 'googleauth', '~> 0.6.1'
+gem 'rails', '= 3.1'
