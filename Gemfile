@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'addressable', '~> 2.3.5'
+gem 'faraday', '~> 0.9.0'
+gem 'faraday-cookie_jar', '~> 0.0.6'
+gem 'faraday_middleware', '~> 0.9.1'
+gem 'fastimage', '>= 0'
+gem 'nokogiri', '~> 1.6'
+gem 'rails', '= 3.1'
