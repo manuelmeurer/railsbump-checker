@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'google-cloud-core', '~> 1.5'
+gem 'google-cloud-vision-v1', '~> 0.0'
+gem 'google-cloud-vision-v1p3beta1', '~> 0.0'
+gem 'rails', '= 3.1'
