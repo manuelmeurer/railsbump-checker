@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'jwt', '~> 2.2.0'
+gem 'rest-client', '~> 2.0.0'
+gem 'zache', '~> 0.12.0'
+gem 'rails', '= 3.1'
