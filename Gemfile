@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'json', '~> 1.7'
+gem 'rails', '< 5', '>= 3.1', '= 3.1'
+gem 'rest-client', '~> 1.8'
+gem 'zip', '~> 2'
