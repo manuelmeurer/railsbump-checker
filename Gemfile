@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'fog-core', '<= 2.1.0', '>= 2.0'
+gem 'fog-json', '~> 1.2.0'
+gem 'fog-xml', '~> 0.1.0'
+gem 'google-api-client', '~> 0.23.0'
+gem 'rails', '= 3.1'
