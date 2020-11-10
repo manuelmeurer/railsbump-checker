@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'activerecord', '>= 3.0'
+gem 'activesupport', '>= 3.0'
+gem 'appraisal', '~> 0.4.1'
+gem 'crypt_keeper_providers', '~> 0.2.0'
+gem 'rails', '= 3.1'
