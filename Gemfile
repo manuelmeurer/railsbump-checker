@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'cgi_multipart_eof_fix', '>= 2.4'
+gem 'daemons', '>= 1.0.3'
+gem 'fastthread', '>= 1.0.1'
+gem 'gem_plugin', '>= 0.2.3'
+gem 'rails', '= 4.1'
