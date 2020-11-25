@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rspec', '~> 2.12.0'
+gem 'ruby2ruby', '~> 1.3.1'
+gem 'sourcify', '~> 0.6.0.rc2'
+gem 'rails', '= 4.1'
