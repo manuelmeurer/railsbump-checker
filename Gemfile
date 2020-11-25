@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'activeadmin', '<= 1.1.0'
+gem 'jquery-rails', '>= 0'
+gem 'mongoid', '~> 6.0.3'
+gem 'sass-rails', '<= 5.0.6', '>= 3.1.4'
+gem 'rails', '= 4.1'
