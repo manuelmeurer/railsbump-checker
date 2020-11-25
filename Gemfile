@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'activemodel', '>= 3.0'
+gem 'activesupport', '>= 3.0'
+gem 'aggregate_root', '= 0.15.0'
+gem 'rails_event_store_active_record', '= 0.15.0'
+gem 'ruby_event_store', '= 0.15.0'
+gem 'rails', '= 4.1'
