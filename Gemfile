@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'binding_ninja', '>= 0.2.1'
+gem 'parser', '>= 0'
+gem 'proc_to_ast', '>= 0'
+gem 'rspec', '< 4', '>= 2.13'
+gem 'unparser', '>= 0'
+gem 'rails', '= 4.1'
