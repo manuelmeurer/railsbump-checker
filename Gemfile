@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'bcrypt-ruby', '~> 2.1.2'
+gem 'orm_adapter', '~> 0.0.3'
+gem 'warden', '~> 1.0.3'
+gem 'rails', '= 4.0'
