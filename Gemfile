@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'authlogic', '= 3.4.2'
+gem 'casein', '>= 0'
+gem 'jquery-rails', '>= 0'
+gem 'scrypt', '= 1.2.1'
+gem 'will_paginate', '= 3.0.5'
+gem 'rails', '= 4.0'
