@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'actionpack', '< 6', '>= 4'
+gem 'hashie', '~> 3.3'
+gem 'json-schema', '~> 2.5'
+gem 'rspec', '~> 3'
+gem 'rspec-expectations', '~> 3.1'
+gem 'rspec-mocks', '~> 3.1'
+gem 'rails', '= 5.0'
