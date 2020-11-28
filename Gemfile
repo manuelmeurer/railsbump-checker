@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'activesupport', '>= 0'
+gem 'hoe', '>= 1.4.0'
+gem 'hpricot', '>= 0'
+gem 'rails', '= 4.0'
