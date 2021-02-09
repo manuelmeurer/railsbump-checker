@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'css_parser', '>= 0'
+gem 'facets', '>= 0'
+gem 'maca-fork-csspool', '>= 0'
+gem 'nokogiri', '>= 0'
+gem 'rails', '~> 3.1.0'
