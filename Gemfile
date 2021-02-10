@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'blankslate', '>= 2.1.2.3'
+gem 'json', '>= 1.5.1'
+gem 'rack', '>= 1.3'
+gem 'rest-client', '>= 1.6.3'
+gem 'rails', '~> 5.1.0'
