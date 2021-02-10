@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'dry-struct', '= 0.3'
+gem 'dry-types', '= 0.11'
+gem 'faraday', '>= 0.9'
+gem 'json', '>= 1.8'
+gem 'rails', '~> 4.0.0'
