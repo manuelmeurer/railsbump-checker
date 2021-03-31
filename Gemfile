@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'capybara', '< 4', '>= 2.4'
+gem 'rack', '>= 1.4'
+gem 'rack-proxy', '>= 0.6.0'
+gem 'selenium-webdriver', '~> 3.0'
+gem 'rails', '~> 4.1.0'
