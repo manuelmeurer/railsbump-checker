@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'github-markup', '< 1.0.0', '>= 0.7.5'
+gem 'gitlab-grit', '~> 2.6.0'
+gem 'nokogiri', '~> 1.6.0'
+gem 'pygments.rb', '~> 0.5.2'
+gem 'sanitize', '~> 2.0.6'
+gem 'stringex', '~> 2.1.0'
+gem 'rails', '~> 3.2.0'
