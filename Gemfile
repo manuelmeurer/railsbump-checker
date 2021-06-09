@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'representable', '>= 0'
+gem 'trailblazer-activity', '>= 0.10.0', '< 1.0.0'
+gem 'trailblazer-activity-dsl-linear', '>= 0'
+gem 'rails', '~> 5.2.0'
